@@ -123,3 +123,8 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+# EMAIL_HOST = 'smtp.rambler.ru'
+# EMAIL_HOST_USER = 'django.shtanga@rambler.ru'
+# EMAIL_HOST_PASSWORD = '4Rs-bD5-vLh-a74'
+# EMAIL_PORT = 465
+# EMAIL_USE_SSL = True
